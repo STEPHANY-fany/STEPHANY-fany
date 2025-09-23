@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Stephany Calven</a> 👋</h1>
+<h1 align="center">Hola, soy la inge revuelta</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/Kd4jvy3.png">
 
